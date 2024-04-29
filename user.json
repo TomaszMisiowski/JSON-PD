@@ -1,0 +1,11 @@
+{
+  "name": "John" /* name nazwa atrybutu obok wartość, string */,
+  "age": 39 /* numberS */,
+  "isadmin": false,
+  "courses": ["JavaScript", "HTML"] /*tablica z dwoma elementami */,
+  "address": {
+    /* zagnieżdzenie miasta i kod pocztowy */
+    "city": "New York",
+    "zip": "10001"
+  }
+}
